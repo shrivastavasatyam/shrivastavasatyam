@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shrivastavasatyam.shrivastavasatyam)
+
 # Hi there, I'm Satyam Shrivastava 👋
 
 ## About Me
@@ -29,9 +31,6 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
 | Frameworks | Pandas, NumPy, Matplotlib, SciKit-Learn, NLTK, TensorFlow, PyTorch, Hadoop, Spark, Hive, Kafka, Airflow |
 | Developer Tools | Snowflake, Power BI, Tableau, Alteryx Designer, BigQuery, Google Cloud Platform (GCP), Adobe Analytics, GitHub |
 | Management Tools | Jira, Confluence, Alation, Microsoft Office Suite |
-
-## 📊 GitHub Stats
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrivastavasatyam&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 - Email: shrivastava.sat@northeastern.edu
