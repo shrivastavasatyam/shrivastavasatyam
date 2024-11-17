@@ -65,6 +65,54 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
   </tr>
 </table>
 
+## 🏫 Academic Experience
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/school/d'amore-mckim-school-of-business-at-northeastern-university"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/nu_business_school_logo.jpeg" alt="D'Amore-McKim School of Business" height="50"></a></td>
+    <td>
+      <strong>D'Amore-McKim School of Business | Northeastern University</strong><br>
+      <em>Graduate Teaching Assistant</em><br>
+      MISM 6205: Data Wrangling for Business - <a href="https://www.linkedin.com/company/northeastern-university-edge/">EDGE</a> for <a href="https://www.linkedin.com/company/pwc/">PwC</a> <br>
+      Boston, MA, US
+    </td>
+    <td align="right">
+      Fall 2024 Semester<br>
+      Sep 2024 - Dec 2024
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/school/khoury-college"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/nu_cs_school_logo.jpeg" alt="Khoury College of Computer Sciences" height="35"></a></td>
+    <td>
+      <strong>Khoury College of Computer Sciences | Northeastern University</strong><br>
+      <em>Graduate Teaching Assistant</em><br>
+      DS 5110: Introduction to Data Management and Processing <br>
+      Boston, MA, US
+    </td>
+    <td align="right">
+      Fall 2023 Semester<br>
+      Sep 2023 - Dec 2023
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/school/khoury-college"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/nu_cs_school_logo.jpeg" alt="Khoury College of Computer Sciences" height="35"></a></td>
+    <td>
+      <strong>Khoury College of Computer Sciences | Northeastern University</strong><br>
+      <em>Graduate Teaching Assistant</em><br>
+      CS 3200: Database Design<br>
+      Boston, MA, US
+    </td>
+    <td align="right">
+      Spring 2023 Semester <br>
+      Jan 2023 - Apr 2023
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
