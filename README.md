@@ -10,11 +10,61 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
 - Relevant Courses: Linear Algebra, Statistics & Probability, Data Management & Processing, Machine Learning, NLP, Deep Learning, Information Visualization
 
 ## 💼 Work Experience
-- **Data Analytics & Insights Co-op** | Fidelity Investments, Boston, MA | Jan 2024 – Jul 2024
-- **Graduate Teaching Assistant** | Northeastern University, Boston, MA | Jan 2023 – Dec 2023
-- **Decision Scientist** | Fractal Analytics, Mumbai, India | Mar 2020 – Aug 2022
-- **Data Engineer** | Netlink Software Group America Inc, Bhopal, India | Oct 2019 – Mar 2020
-- **Data Engineer** | Tata Consultancy Services, Pune, India | Dec 2016 – Oct 2019
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/company/fidelity-investments"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/fidelity_logo.png" alt="Fidelity Investments" height="30"></a></td>
+    <td>
+      <strong>Fidelity Investments</strong><br>
+      <em>Data Analytics and Insights Co-op&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
+      Boston, MA, US
+    </td>
+    <td align="right">
+      Jan 2024 - Aug 2024
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/company/fractal-analytics"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/fractal_logo.jpg" alt="Fractal Analytics" height="25"></a></td>
+    <td>
+      <strong>Fractal Analytics</strong><br>
+      <em>Decision Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
+      Mumbai, MH, India
+    </td>
+    <td align="right">
+      Mar 2020 - Aug 2022
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/company/netlinksolutions"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/netlink_logo.jpeg" alt="Netlink Software Group America Inc" height="45"></a></td>
+    <td>
+      <strong>Netlink Software Group America Inc</strong><br>
+      <em>Analytics Consultant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
+      Bhopal, MP, India
+    </td>
+    <td align="right">
+      Oct 2019 - Mar 2020
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/company/tata-consultancy-services"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/tcs_logo.jpeg" alt="Tata Consultancy Services" height="30"></a></td>
+    <td>
+      <strong>Tata Consultancy Services</strong><br>
+      <em>Data Analyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
+      Pune, MH, India
+    </td>
+    <td align="right">
+      Dec 2016 - Oct 2019
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Featured Projects
 
