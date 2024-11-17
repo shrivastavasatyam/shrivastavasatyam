@@ -1,15 +1,30 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shrivastavasatyam.shrivastavasatyam)
 
-# Hi there, I'm Satyam Shrivastava 👋
+# Hi! I'm Satyam Shrivastava 🌟 Turning Data into Insights 💡📈
 
-## About Me
-I'm a Data Science graduate student at Northeastern University with 6+ years of expertise in machine learning, statistics, NLP, data engineering, data visualization, and advanced data analytics. I'm passionate about leveraging data to deliver high-impact solutions.
+## About Me 👨‍💻
+I'm a Data Science graduate student at Northeastern University with 6+ years of expertise in machine learning, statistics, NLP, data engineering, data visualization, and advanced data analytics. I develop scalable, cloud-based solutions that drive high-value, data-driven business outcomes.
 
-## 🎓 Education
-- **MS in Data Science** | Northeastern University, Boston, MA | GPA: 3.8/4.0 | Sep 2022 - Dec 2024
-- Relevant Courses: Linear Algebra, Statistics & Probability, Data Management & Processing, Machine Learning, NLP, Deep Learning, Information Visualization
+## Education 🎓
 
-## 💼 Work Experience
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/school/khoury-college"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/nu_cs_school_logo.jpeg" alt="Khoury College of Computer Sciences" height="35"></a></td>
+    <td>
+      Northeastern University | Khoury College of Computer Sciences <br>
+      <strong>Master of Science (MS) in Data Science</strong> <br>
+      Boston, MA, US
+    </td>
+    <td align="right">
+      Sep 2022 - Aug 2024
+    </td>
+  </tr>
+</table>
+
+***Coursework**: Linear Algebra, Statistics & Probability, Data Structures & Algorithms, Data Management & Processing, Machine Learning, Data Mining, Natural Language Processing (NLP), Deep Learning, Information Visualization, Large Scale Parallel Data Processing, MLOps, Large Language Models (LLM)*
+
+## Work Experience 💼
 
 <table>
   <tr>
@@ -65,7 +80,7 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
   </tr>
 </table>
 
-## 🏫 Academic Experience
+## Academic Experience 🏫
 
 <table>
   <tr>
@@ -114,7 +129,7 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
   </tr>
 </table>
 
-## 🚀 Featured Projects
+## Featured Projects 🚀
 
 ### Data Engineering & Big Data
 1. [Credit-Card-Management-System](https://github.com/shrivastavasatyam/Credit-Card-Management-System) - Python-based system with a 3NF-compliant SQL database for credit card management, involving 10K+ realistic customer profiles.
@@ -135,7 +150,7 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
 2. [NLP-Powered-Story-Generator](https://github.com/shrivastavasatyam/NLP-Powered-Story-Generator) - Generating stories based on prompts using NLP and deep learning models.
 3. [Consumer-Complaint-Tagger](https://github.com/shrivastavasatyam/Consumer-Complaint-Tagger) - Automating complaint classification for improved handling using multi-level NLP classification.
 
-## 🔧 Skills
+## Skills 🔧
 
 | Category | Technologies |
 |----------|--------------|
@@ -145,7 +160,7 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
 | Developer Tools | Snowflake, Power BI, Tableau, Alteryx Designer, BigQuery, Google Cloud Platform (GCP), Adobe Analytics, GitHub |
 | Management Tools | Jira, Confluence, Alation, Microsoft Office Suite |
 
-## 📫 How to reach me:
+## Contact 💬
 - Email: shrivastava.sat@northeastern.edu
 - LinkedIn: [linkedin.com/in/shrivastavasatyam](https://www.linkedin.com/in/shrivastavasatyam)
 
