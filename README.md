@@ -32,7 +32,7 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
       <a href="https://www.linkedin.com/company/fidelity-investments"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/fidelity_logo.png" alt="Fidelity Investments" height="30"></a></td>
     <td>
       <strong>Fidelity Investments</strong><br>
-      <em>Data Analytics and Insights Co-op&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
+      <em>Co-op, Data Analytics and Insights&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
       Boston, MA, US
     </td>
     <td align="right">
@@ -45,7 +45,7 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
       <a href="https://www.linkedin.com/company/fractal-analytics"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/fractal_logo.jpg" alt="Fractal Analytics" height="25"></a></td>
     <td>
       <strong>Fractal Analytics</strong><br>
-      <em>Decision Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
+      <em>Senior Decision Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
       Mumbai, MH, India
     </td>
     <td align="right">
@@ -58,7 +58,7 @@ I'm a Data Science graduate student at Northeastern University with 6+ years of 
       <a href="https://www.linkedin.com/company/netlinksolutions"><img src="https://raw.githubusercontent.com/shrivastavasatyam/shrivastavasatyam/main/company_logo/netlink_logo.jpeg" alt="Netlink Software Group America Inc" height="45"></a></td>
     <td>
       <strong>Netlink Software Group America Inc</strong><br>
-      <em>Analytics Consultant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
+      <em>Senior Analytics Consultant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><br>
       Bhopal, MP, India
     </td>
     <td align="right">
